@@ -1,4 +1,3 @@
-// workout Controllers
 const { Workout, Exercise, User } = require('../models');
 
 // @desc    Get all workouts
